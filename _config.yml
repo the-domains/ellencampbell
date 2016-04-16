@@ -1,6 +1,6 @@
 name: Ellen Campbell
 favicon: null
-layout_spectrum: 0.7503
+layout_spectrum: 1
 typography_spectrum: 0.02519
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#7d7a7b'
     - '#b2afb0'
     - '#f3f3f3'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.2736104070208967
   saturation: 0
   rhythmicContrast: 0.5
